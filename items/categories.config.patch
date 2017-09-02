@@ -1,0 +1,4 @@
+[
+	{"op" : "add", "path" : "/labels/ore", "value" : "Ore" },
+	{"op" : "add", "path" : "/labels/ingot", "value" : "Ingot" }
+]

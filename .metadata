@@ -1,0 +1,10 @@
+{
+  "name" : "imriFUITD",
+  "friendlyName" : "FU ITD Test",
+  "description" : ".",
+  "author" : "Imrielle",
+  "version" : "1.0",
+  "link" : "",
+  "steamContentId" : "000000001",
+  "includes" : ["FrackinUniverse"]
+}
